@@ -12,7 +12,7 @@ function digitalstr() {
             <div className="col-12">
               <h4> Digital Marketing Strategy Development</h4>
               <p>Build a Clear Roadmap to Online Growth</p>
-              <a href="#" className="btn btn-outline-primary">
+              <a href="/#" className="btn btn-outline-primary">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
@@ -263,7 +263,7 @@ function digitalstr() {
               </p>
             </div>
             <div className="col-12 bt">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 LET'S BUILD YOUR MASTER PLAN
               </a>
             </div>
@@ -613,7 +613,7 @@ function digitalstr() {
                 />
                 <div className="co">
                   <h6>
-                    <a href="#">TOTAL LEADS</a>
+                    <a href="/#">TOTAL LEADS</a>
                   </h6>
                 </div>
                 <p>
@@ -630,7 +630,7 @@ function digitalstr() {
                 />
                 <div className="co">
                   <h6>
-                    <a href="#">TOTAL LEADS</a>
+                    <a href="/#">TOTAL LEADS</a>
                   </h6>
                 </div>
                 <p>
@@ -647,7 +647,7 @@ function digitalstr() {
                 />
                 <div className="co">
                   <h6>
-                    <a href="#">TOTAL LEADS</a>
+                    <a href="/#">TOTAL LEADS</a>
                   </h6>
                 </div>
                 <p>
@@ -671,7 +671,7 @@ function digitalstr() {
                 Entrust your local search optimization to our local SEO experts
                 and let us help you reap the many benefits of local SEO.
               </p>
-              <a href="#" className="btn btn-outline-primary">
+              <a href="/#" className="btn btn-outline-primary">
                 GET A FREE QUOTE
               </a>
             </div>

@@ -13,7 +13,7 @@ function mediap() {
             <div className="col-12">
               <h4>Media & Press Information</h4>
               <p>Find out more about company, our services and our people.</p>
-              <a href="#" className="btn btn-outline-primary">
+              <a href="/#" className="btn btn-outline-primary">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>

@@ -16,7 +16,7 @@ function ecommerce() {
               <p>
                 Utilize cutting-edge eCommerce web design to increase sales.
               </p>
-              <a href="#" className="btn btn-outline-primary">
+              <a href="/#" className="btn btn-outline-primary">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
@@ -45,7 +45,7 @@ function ecommerce() {
               </p>
             </div>
             <div className="col-12 bb">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 LETS STARTED
               </a>
               <img

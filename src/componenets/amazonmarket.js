@@ -14,7 +14,7 @@ function amazonmarket() {
             <div className="col-12">
               <h4>Amazon Marketing Services</h4>
               <p>Our Amazon Marketing Agency Delivers Customized Solutions</p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
@@ -316,7 +316,7 @@ function amazonmarket() {
         <div className="container">
           <div className="row">
             <div className="col-12">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GROW MY LEADS NOW
               </a>
               <p className="pp">
@@ -331,7 +331,7 @@ function amazonmarket() {
                       class="accordion-button"
                       type="button"
                       data-bs-toggle="collapse"
-                      data-bs-target="#collapseOne"
+                      data-bs-target="/#collapseOne"
                       aria-expanded="true"
                       aria-controls="collapseOne"
                     >
@@ -342,7 +342,7 @@ function amazonmarket() {
                     id="collapseOne"
                     class="accordion-collapse collapse show"
                     aria-labelledby="headingOne"
-                    data-bs-parent="#accordionExample"
+                    data-bs-parent="/#accordionExample"
                   >
                     <div class="accordion-body">
                       <strong>This is the first item's accordion body.</strong>{" "}
@@ -363,7 +363,7 @@ function amazonmarket() {
                       class="accordion-button collapsed"
                       type="button"
                       data-bs-toggle="collapse"
-                      data-bs-target="#collapseTwo"
+                      data-bs-target="/#collapseTwo"
                       aria-expanded="false"
                       aria-controls="collapseTwo"
                     >
@@ -374,7 +374,7 @@ function amazonmarket() {
                     id="collapseTwo"
                     class="accordion-collapse collapse"
                     aria-labelledby="headingTwo"
-                    data-bs-parent="#accordionExample"
+                    data-bs-parent="/#accordionExample"
                   >
                     <div class="accordion-body">
                       <strong>This is the second item's accordion body.</strong>{" "}
@@ -395,7 +395,7 @@ function amazonmarket() {
                       class="accordion-button collapsed"
                       type="button"
                       data-bs-toggle="collapse"
-                      data-bs-target="#collapseThree"
+                      data-bs-target="/#collapseThree"
                       aria-expanded="false"
                       aria-controls="collapseThree"
                     >
@@ -406,7 +406,7 @@ function amazonmarket() {
                     id="collapseThree"
                     class="accordion-collapse collapse"
                     aria-labelledby="headingThree"
-                    data-bs-parent="#accordionExample"
+                    data-bs-parent="/#accordionExample"
                   >
                     <div class="accordion-body">
                       <strong>This is the third item's accordion body.</strong>{" "}
@@ -436,7 +436,7 @@ function amazonmarket() {
               />
               <h1>Ready to Get Started?</h1>
               <p>Schedule a call with our Shopify SEO experts today.</p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 LETS'S TALK
               </a>
             </div>

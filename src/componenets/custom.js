@@ -27,7 +27,7 @@ function custom() {
                 Stand Out In This Saturated Digital Landscape With A Custom Fit
                 Website
               </p>
-              <a href="#" className="btn btn-outline-primary">
+              <a href="/#" className="btn btn-outline-primary">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>

@@ -12,7 +12,7 @@ function SEO() {
             <div className="col-12">
               <h4>Search Engine Optimization – SEO Company</h4>
               <p>Invest in Your Future with an SEO Company that Gets Results</p>
-              <a href="#" className="btn btn-outline-primary">
+              <a href="/#" className="btn btn-outline-primary">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
@@ -67,7 +67,7 @@ function SEO() {
                 />
                 <div className="co">
                   <h6>
-                    <a href="#">CONSTRUCTION COMPANY</a>
+                    <a href="/#">CONSTRUCTION COMPANY</a>
                   </h6>
                 </div>
                 <div className="row">
@@ -101,7 +101,7 @@ function SEO() {
                 />
                 <div className="co">
                   <h6>
-                    <a href="#">CONSTRUCTION COMPANY</a>
+                    <a href="/#">CONSTRUCTION COMPANY</a>
                   </h6>
                 </div>
                 <div className="row">
@@ -135,7 +135,7 @@ function SEO() {
                 />
                 <div className="co">
                   <h6>
-                    <a href="#">CONSTRUCTION COMPANY</a>
+                    <a href="/#">CONSTRUCTION COMPANY</a>
                   </h6>
                 </div>
                 <div className="row">
@@ -358,7 +358,7 @@ function SEO() {
               <img src="https://thriveagency.com/files/Group-1877.png" alt="" />
             </div>
             <div className="col-12">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 CONTACT US TO OUR OUTRANK YOUR COMPETITORS
               </a>
             </div>
@@ -817,7 +817,7 @@ function SEO() {
         <div className="container">
           <div className="row">
             <div className="col-12">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GROW MY LEADS NOW
               </a>
               <p className="pp">

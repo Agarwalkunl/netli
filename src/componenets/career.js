@@ -79,7 +79,7 @@ function career() {
                 If you’re passionate about doing your best work and helping
                 others, we’d love to meet you.
               </p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
@@ -133,7 +133,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -144,7 +144,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -155,7 +155,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -166,7 +166,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -177,7 +177,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -188,7 +188,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -199,7 +199,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -210,7 +210,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -221,7 +221,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -232,7 +232,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -243,7 +243,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -254,7 +254,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -280,7 +280,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>
                   We encourage our employees to reach beyond their daily
@@ -295,7 +295,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>
                   We encourage our employees to reach beyond their daily
@@ -310,7 +310,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>
                   We encourage our employees to reach beyond their daily
@@ -325,7 +325,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>
                   We encourage our employees to reach beyond their daily
@@ -340,7 +340,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>
                   We encourage our employees to reach beyond their daily
@@ -355,7 +355,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>
                   We encourage our employees to reach beyond their daily
@@ -370,7 +370,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>
                   We encourage our employees to reach beyond their daily
@@ -385,7 +385,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>
                   We encourage our employees to reach beyond their daily
@@ -400,7 +400,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>
                   We encourage our employees to reach beyond their daily
@@ -415,7 +415,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>
                   We encourage our employees to reach beyond their daily
@@ -430,7 +430,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>
                   We encourage our employees to reach beyond their daily
@@ -445,7 +445,7 @@ function career() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>
                   We encourage our employees to reach beyond their daily

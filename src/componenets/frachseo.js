@@ -15,7 +15,7 @@ function frachseo() {
               <p>
                 Ensure Brand Consistency and Success Across Multiple Locations
               </p>
-              <a href="#" className="btn btn-outline-primary">
+              <a href="/#" className="btn btn-outline-primary">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
@@ -409,7 +409,7 @@ function frachseo() {
               />
             </div>
             <div className="col-12">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 LET'S TALK
               </a>
             </div>
@@ -703,7 +703,7 @@ function frachseo() {
               <p>
                 Let Us Help You Take Control of Your Franchise Marketing Today
               </p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>

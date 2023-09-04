@@ -13,7 +13,7 @@ function shopify() {
             <div className="col-12">
               <h4>Shopify SEO</h4>
               <p>Scale Your eCommerce Business and Reach a Wider Audience</p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
@@ -75,7 +75,7 @@ function shopify() {
             <div className="col-12">
               <h1>Ready to Get Started?</h1>
               <p>Schedule a call with our Shopify SEO experts today.</p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 LETS'S TALK
               </a>
             </div>

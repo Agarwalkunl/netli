@@ -15,22 +15,22 @@ function tgf() {
               <p>The 5 Steps to Securing Digital Marketing Success</p>
               <div className="row">
                 <div className="col-lg-2 col-md-6">
-                  <a href="#">STRAGTIZE</a>
+                  <a href="/#">STRAGTIZE</a>
                 </div>
                 <div className="col-lg-2 col-md-6">
-                  <a href="#">STRAGTIZEasdf</a>
+                  <a href="/#">STRAGTIZEasdf</a>
                 </div>
                 <div className="col-lg-2 col-md-6">
-                  <a href="#">STRAGTIZEa</a>
+                  <a href="/#">STRAGTIZEa</a>
                 </div>
                 <div className="col-lg-2 col-md-6">
-                  <a href="#">STRAGTIZEasd</a>
+                  <a href="/#">STRAGTIZEasd</a>
                 </div>
                 <div className="col-lg-2 col-md-6">
-                  <a href="#">STRAGTIddZE</a>
+                  <a href="/#">STRAGTIddZE</a>
                 </div>
               </div>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>

@@ -17,7 +17,7 @@ function Webinars() {
                 Get Tactical Advice From Leading Experts on How To Grow Your
                 Business
               </p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
@@ -40,7 +40,7 @@ function Webinars() {
               <input type="text" />
             </div>
             <div className="col-lg-3 col-md-6">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 SUBSCRIBE
               </a>
             </div>
@@ -78,7 +78,7 @@ function Webinars() {
                   src="https://thriveagency.com/files/What-Elon-Musks-Twitter-Takeover-and-Blue-Check-Subscription_1280x720-331x186.png"
                   alt=""
                 />
-                <a href="#">
+                <a href="/#">
                   What Elon Musk’s Twitter Takeover and Blue Check Description
                   Means f...
                 </a>
@@ -103,7 +103,7 @@ function Webinars() {
                   src="https://thriveagency.com/files/What-Elon-Musks-Twitter-Takeover-and-Blue-Check-Subscription_1280x720-331x186.png"
                   alt=""
                 />
-                <a href="#">
+                <a href="/#">
                   What Elon Musk’s Twitter Takeover and Blue Check Description
                   Means f...
                 </a>
@@ -128,7 +128,7 @@ function Webinars() {
                   src="https://thriveagency.com/files/What-Elon-Musks-Twitter-Takeover-and-Blue-Check-Subscription_1280x720-331x186.png"
                   alt=""
                 />
-                <a href="#">
+                <a href="/#">
                   What Elon Musk’s Twitter Takeover and Blue Check Description
                   Means f...
                 </a>
@@ -153,7 +153,7 @@ function Webinars() {
                   src="https://thriveagency.com/files/What-Elon-Musks-Twitter-Takeover-and-Blue-Check-Subscription_1280x720-331x186.png"
                   alt=""
                 />
-                <a href="#">
+                <a href="/#">
                   What Elon Musk’s Twitter Takeover and Blue Check Description
                   Means f...
                 </a>
@@ -178,7 +178,7 @@ function Webinars() {
                   src="https://thriveagency.com/files/What-Elon-Musks-Twitter-Takeover-and-Blue-Check-Subscription_1280x720-331x186.png"
                   alt=""
                 />
-                <a href="#">
+                <a href="/#">
                   What Elon Musk’s Twitter Takeover and Blue Check Description
                   Means f...
                 </a>
@@ -203,7 +203,7 @@ function Webinars() {
                   src="https://thriveagency.com/files/What-Elon-Musks-Twitter-Takeover-and-Blue-Check-Subscription_1280x720-331x186.png"
                   alt=""
                 />
-                <a href="#">
+                <a href="/#">
                   What Elon Musk’s Twitter Takeover and Blue Check Description
                   Means f...
                 </a>
@@ -228,7 +228,7 @@ function Webinars() {
                   src="https://thriveagency.com/files/What-Elon-Musks-Twitter-Takeover-and-Blue-Check-Subscription_1280x720-331x186.png"
                   alt=""
                 />
-                <a href="#">
+                <a href="/#">
                   What Elon Musk’s Twitter Takeover and Blue Check Description
                   Means f...
                 </a>
@@ -253,7 +253,7 @@ function Webinars() {
                   src="https://thriveagency.com/files/What-Elon-Musks-Twitter-Takeover-and-Blue-Check-Subscription_1280x720-331x186.png"
                   alt=""
                 />
-                <a href="#">
+                <a href="/#">
                   What Elon Musk’s Twitter Takeover and Blue Check Description
                   Means f...
                 </a>
@@ -278,7 +278,7 @@ function Webinars() {
                   src="https://thriveagency.com/files/What-Elon-Musks-Twitter-Takeover-and-Blue-Check-Subscription_1280x720-331x186.png"
                   alt=""
                 />
-                <a href="#">
+                <a href="/#">
                   What Elon Musk’s Twitter Takeover and Blue Check Description
                   Means f...
                 </a>

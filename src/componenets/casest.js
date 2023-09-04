@@ -21,7 +21,7 @@ function Casest() {
                 Team Up With Thrive – The Next Amazing Case Study Could Be
                 Yours!
               </p>
-              <a href="#" className="btn btn-outline-primary">
+              <a href="/#" className="btn btn-outline-primary">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>

@@ -12,7 +12,7 @@ function contact() {
             <div className="col-12">
               <h4>Contact</h4>
               <p>Fill out the form below to get your Free Proposal.</p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>

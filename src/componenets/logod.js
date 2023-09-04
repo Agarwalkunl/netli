@@ -13,7 +13,7 @@ function logod() {
             <div className="col-12">
               <h4> Logo Designs</h4>
               <p>Logos that reflect your brand's personality</p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>

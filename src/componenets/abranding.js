@@ -13,7 +13,7 @@ function abranding() {
             <div className="col-12">
               <h4>Amazon Storefront & Branding Services</h4>
               <p>We Help You Make a Name for Yourself</p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
@@ -134,7 +134,7 @@ function abranding() {
                 to your buyers, creating lifetime customer loyalty for returning
                 sales and sustained success.
               </p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 LETS'S TALK
               </a>
             </div>
@@ -229,7 +229,7 @@ function abranding() {
             <div className="col-12">
               <h1>Ready to Grow Your Amazon Business?</h1>
               <p>Work with the Amazon Marketing Agency with Proven Results</p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 LETS'S TALK
               </a>
             </div>

@@ -13,7 +13,7 @@ function socialmm() {
             <div className="col-12">
               <h4>Social Media Marketing</h4>
               <p>Share Your Unique Brand Story Across Online Channels</p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
@@ -419,7 +419,7 @@ function socialmm() {
                 />
                 <div className="co">
                   <h6>
-                    <a href="#">CONSTRUCTION COMPANY</a>
+                    <a href="/#">CONSTRUCTION COMPANY</a>
                   </h6>
                 </div>
                 <div className="row">
@@ -453,7 +453,7 @@ function socialmm() {
                 />
                 <div className="co">
                   <h6>
-                    <a href="#">CONSTRUCTION COMPANY</a>
+                    <a href="/#">CONSTRUCTION COMPANY</a>
                   </h6>
                 </div>
                 <div className="row">
@@ -487,7 +487,7 @@ function socialmm() {
                 />
                 <div className="co">
                   <h6>
-                    <a href="#">CONSTRUCTION COMPANY</a>
+                    <a href="/#">CONSTRUCTION COMPANY</a>
                   </h6>
                 </div>
                 <div className="row">
@@ -809,7 +809,7 @@ function socialmm() {
         <div className="container">
           <div className="row">
             <div className="col-12">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GROW MY LEADS NOW
               </a>
               <p className="pp">

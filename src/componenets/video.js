@@ -13,7 +13,7 @@ function video() {
             <div className="col-12">
               <h4> Video Production Services</h4>
               <p>Use the power of video to wow your audience.</p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL
               </a>
             </div>
@@ -266,7 +266,7 @@ function video() {
                 video marketing services and technical solutions that will
                 provide real, measurable results.
               </p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 LET'S TALK
               </a>
             </div>

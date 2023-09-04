@@ -13,7 +13,7 @@ function googlean() {
             <div className="col-12">
               <h4>Google Analytics Services</h4>
               <p>Let us help you accurately track your online performance.</p>
-              <a href="#" className="btn btn-outline-primary">
+              <a href="/#" className="btn btn-outline-primary">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
@@ -72,7 +72,7 @@ function googlean() {
                 help you make better data-driven decisions.
                 <b>Ready to get started?</b> <br />
                 Request a proposal <br />
-                Call us at <a href="#">935.116.4343 </a>with any questions
+                Call us at <a href="/#">935.116.4343 </a>with any questions
               </p>
             </div>
             <div className="col-12 im">

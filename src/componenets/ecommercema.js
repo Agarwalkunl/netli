@@ -16,7 +16,7 @@ function ecommercema() {
                 Convert Shoppers into Paying Customers and Achieve Profitable,
                 Long-Term Growth
               </p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
@@ -508,7 +508,7 @@ function ecommercema() {
               <p className="pp">
                 Convert More Prospects into Customers and Drive More Sales
               </p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 LET'S TALK
               </a>
             </div>

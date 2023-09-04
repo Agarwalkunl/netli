@@ -40,7 +40,7 @@ function Home() {
                 RESULTS <span style={{ color: "#0f752a" }}>DRIVEN</span>
               </h4>
               <p>DIGITAL MARKETING AGENCY</p>
-              <a href="#" className="btn btn-outline-primary">
+              <a href="/#" className="btn btn-outline-primary">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
@@ -83,7 +83,7 @@ function Home() {
                   new Farah website by +664% and along with the new CRO focused
                   Website were able to increase online leads by over +360%.
                 </p>
-                <a href="#">Read Farah’s Case Study »</a>
+                <a href="/#">Read Farah’s Case Study »</a>
               </div>
             </div>
             <div className="col-lg-6" data-aos="flip-left">
@@ -114,7 +114,7 @@ function Home() {
                   new Farah website by +664% and along with the new CRO focused
                   Website were able to increase online leads by over +360%.
                 </p>
-                <a href="#">Read Farah’s Case Study »</a>
+                <a href="/#">Read Farah’s Case Study »</a>
               </div>
             </div>
           </div>
@@ -331,7 +331,7 @@ function Home() {
 
                 <p> AUGUST 31, 2023</p>
                 <p> It’s a busy month for Google as it rolls out… </p>
-                <a href="#">Read More</a>
+                <a href="/#">Read More</a>
               </div>
             </div>
             <div className="col-lg-4 col-md-6 mt-5">
@@ -345,7 +345,7 @@ function Home() {
 
                 <p> AUGUST 31, 2023</p>
                 <p> It’s a busy month for Google as it rolls out… </p>
-                <a href="#">Read More</a>
+                <a href="/#">Read More</a>
               </div>
             </div>
             <div className="col-lg-4 col-md-6 mt-5">
@@ -359,7 +359,7 @@ function Home() {
 
                 <p> AUGUST 31, 2023</p>
                 <p> It’s a busy month for Google as it rolls out… </p>
-                <a href="#">Read More</a>
+                <a href="/#">Read More</a>
               </div>
             </div>
           </div>
@@ -385,7 +385,7 @@ function Home() {
                   <i class="fa-solid fa-laptop"></i>
                 </div>
                 <div className="col-9">
-                  <a href="#">Search Engine Optimization (SEO)</a>
+                  <a href="/#">Search Engine Optimization (SEO)</a>
                 </div>
                 <p>
                   Through careful keyword research and white hat SEO practices,
@@ -400,7 +400,7 @@ function Home() {
                   <i class="fa-solid fa-laptop"></i>
                 </div>
                 <div className="col-9">
-                  <a href="#">Search Engine Optimization (SEO)</a>
+                  <a href="/#">Search Engine Optimization (SEO)</a>
                 </div>
                 <p>
                   Through careful keyword research and white hat SEO practices,
@@ -415,7 +415,7 @@ function Home() {
                   <i class="fa-solid fa-laptop"></i>
                 </div>
                 <div className="col-9">
-                  <a href="#">Search Engine Optimization (SEO)</a>
+                  <a href="/#">Search Engine Optimization (SEO)</a>
                 </div>
                 <p>
                   Through careful keyword research and white hat SEO practices,
@@ -430,7 +430,7 @@ function Home() {
                   <i class="fa-solid fa-laptop"></i>
                 </div>
                 <div className="col-9">
-                  <a href="#">Search Engine Optimization (SEO)</a>
+                  <a href="/#">Search Engine Optimization (SEO)</a>
                 </div>
                 <p>
                   Through careful keyword research and white hat SEO practices,
@@ -445,7 +445,7 @@ function Home() {
                   <i class="fa-solid fa-laptop"></i>
                 </div>
                 <div className="col-9">
-                  <a href="#">Search Engine Optimization (SEO)</a>
+                  <a href="/#">Search Engine Optimization (SEO)</a>
                 </div>
                 <p>
                   Through careful keyword research and white hat SEO practices,
@@ -460,7 +460,7 @@ function Home() {
                   <i class="fa-solid fa-laptop"></i>
                 </div>
                 <div className="col-9">
-                  <a href="#">Search Engine Optimization (SEO)</a>
+                  <a href="/#">Search Engine Optimization (SEO)</a>
                 </div>
                 <p>
                   Through careful keyword research and white hat SEO practices,
@@ -475,7 +475,7 @@ function Home() {
                   <i class="fa-solid fa-laptop"></i>
                 </div>
                 <div className="col-9">
-                  <a href="#">Search Engine Optimization (SEO)</a>
+                  <a href="/#">Search Engine Optimization (SEO)</a>
                 </div>
                 <p>
                   Through careful keyword research and white hat SEO practices,
@@ -490,7 +490,7 @@ function Home() {
                   <i class="fa-solid fa-laptop"></i>
                 </div>
                 <div className="col-9">
-                  <a href="#">Search Engine Optimization (SEO)</a>
+                  <a href="/#">Search Engine Optimization (SEO)</a>
                 </div>
                 <p>
                   Through careful keyword research and white hat SEO practices,
@@ -505,7 +505,7 @@ function Home() {
                   <i class="fa-solid fa-laptop"></i>
                 </div>
                 <div className="col-9">
-                  <a href="#">Search Engine Optimization (SEO)</a>
+                  <a href="/#">Search Engine Optimization (SEO)</a>
                 </div>
                 <p>
                   Through careful keyword research and white hat SEO practices,
@@ -533,7 +533,7 @@ function Home() {
               </p>
             </div>
             <div className="col-5">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
@@ -541,7 +541,7 @@ function Home() {
               <p>OR</p>
             </div>
             <div className="col-5">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 CALL 935-114-8907
               </a>
             </div>

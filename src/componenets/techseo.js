@@ -16,7 +16,7 @@ function techseo() {
                 Create a Strong Digital Foundation and Rank High on Search
                 Results
               </p>
-              <a href="#" className="btn btn-outline-primary">
+              <a href="/#" className="btn btn-outline-primary">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
@@ -164,7 +164,7 @@ function techseo() {
               </p>
             </div>
             <div className="col-12 btnn">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET STRATED NOW
               </a>
             </div>
@@ -556,7 +556,7 @@ function techseo() {
                 Achieve Top Search Engine Rankings with Our Robust Technical SEO
                 Strategy
               </p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL{" "}
               </a>
               <img

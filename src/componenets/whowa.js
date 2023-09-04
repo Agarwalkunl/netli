@@ -70,12 +70,12 @@ function whowa() {
               </div>
             </div>
             <div className="col-6">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
             <div className="col-6">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
@@ -113,12 +113,12 @@ function whowa() {
               />
             </div>
             <div className="col-6">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
             <div className="col-6">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
@@ -144,7 +144,7 @@ function whowa() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -155,7 +155,7 @@ function whowa() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -166,7 +166,7 @@ function whowa() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -177,7 +177,7 @@ function whowa() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -188,7 +188,7 @@ function whowa() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -199,7 +199,7 @@ function whowa() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -210,7 +210,7 @@ function whowa() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -221,7 +221,7 @@ function whowa() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -232,7 +232,7 @@ function whowa() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -243,7 +243,7 @@ function whowa() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -254,7 +254,7 @@ function whowa() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -265,7 +265,7 @@ function whowa() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>

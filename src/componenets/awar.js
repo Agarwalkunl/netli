@@ -263,7 +263,7 @@ function awar() {
                     />
                   </div>
                   <div className="col-lg-6">
-                    <a href="#">How Franchises Stand Out in a Local Market</a>
+                    <a href="/#">How Franchises Stand Out in a Local Market</a>
                     <p>February 2022</p>
                   </div>
                 </div>
@@ -279,7 +279,7 @@ function awar() {
                     />
                   </div>
                   <div className="col-lg-6">
-                    <a href="#">How Franchises Stand Out in a Local Market</a>
+                    <a href="/#">How Franchises Stand Out in a Local Market</a>
                     <p>February 2022</p>
                   </div>
                 </div>
@@ -295,7 +295,7 @@ function awar() {
                     />
                   </div>
                   <div className="col-lg-6">
-                    <a href="#">How Franchises Stand Out in a Local Market</a>
+                    <a href="/#">How Franchises Stand Out in a Local Market</a>
                     <p>February 2022</p>
                   </div>
                 </div>
@@ -311,7 +311,7 @@ function awar() {
                     />
                   </div>
                   <div className="col-lg-6">
-                    <a href="#">How Franchises Stand Out in a Local Market</a>
+                    <a href="/#">How Franchises Stand Out in a Local Market</a>
                     <p>February 2022</p>
                   </div>
                 </div>
@@ -327,7 +327,7 @@ function awar() {
                     />
                   </div>
                   <div className="col-lg-6">
-                    <a href="#">How Franchises Stand Out in a Local Market</a>
+                    <a href="/#">How Franchises Stand Out in a Local Market</a>
                     <p>February 2022</p>
                   </div>
                 </div>
@@ -343,7 +343,7 @@ function awar() {
                     />
                   </div>
                   <div className="col-lg-6">
-                    <a href="#">How Franchises Stand Out in a Local Market</a>
+                    <a href="/#">How Franchises Stand Out in a Local Market</a>
                     <p>February 2022</p>
                   </div>
                 </div>

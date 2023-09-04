@@ -12,7 +12,7 @@ function Localseo() {
             <div className="col-12">
               <h4>Local Search Engine Optimization</h4>
               <p>Grow Your Online Visibility Within Your Target Locations</p>
-              <a href="#" className="btn btn-outline-primary">
+              <a href="/#" className="btn btn-outline-primary">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
@@ -168,7 +168,7 @@ function Localseo() {
                 />
                 <div className="co">
                   <h6>
-                    <a href="#">RV REPAIR SHOP</a>
+                    <a href="/#">RV REPAIR SHOP</a>
                   </h6>
                 </div>
                 <div className="row">
@@ -203,7 +203,7 @@ function Localseo() {
                 />
                 <div className="co">
                   <h6>
-                    <a href="#">RV REPAIR SHOP</a>
+                    <a href="/#">RV REPAIR SHOP</a>
                   </h6>
                 </div>
                 <div className="row">
@@ -238,7 +238,7 @@ function Localseo() {
                 />
                 <div className="co">
                   <h6>
-                    <a href="#">RV REPAIR SHOP</a>
+                    <a href="/#">RV REPAIR SHOP</a>
                   </h6>
                 </div>
                 <div className="row">
@@ -280,7 +280,7 @@ function Localseo() {
                 Entrust your local search optimization to our local SEO experts
                 and let us help you reap the many benefits of local SEO.
               </p>
-              <a href="#" className="btn btn-outline-primary">
+              <a href="/#" className="btn btn-outline-primary">
                 GET MORE LOCAL LEADS NOW
               </a>
             </div>
@@ -556,7 +556,7 @@ function Localseo() {
               </div>
             </div>
             <div className="col-12">
-              <a href="#" className="btn btn-outline-primary">
+              <a href="/#" className="btn btn-outline-primary">
                 INCREASE YOUR LOCAL CUSTOMERS
               </a>
             </div>

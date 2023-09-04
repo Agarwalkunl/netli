@@ -34,7 +34,7 @@ function Webd() {
             <div className="col-12">
               <h4> Web Designs</h4>
               <p>Shiny, new, optimized websites completed by Thrive</p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
@@ -45,47 +45,47 @@ function Webd() {
         <div className="container">
           <div className="row menu">
             <div className="col-xl-3 col-md-6">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 BUSINESS BY TRADE
               </a>
             </div>
             <div className="col-xl-3 col-md-6">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 BUSINESS BY TRADE
               </a>
             </div>
             <div className="col-xl-3 col-md-6">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 BUSINESS BY TRADE
               </a>
             </div>
             <div className="col-xl-3 col-md-6">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 BUSINESS BY TRADE
               </a>
             </div>
             <div className="col-xl-3 col-md-6">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 BUSINESS BY TRADE
               </a>
             </div>
             <div className="col-xl-3 col-md-6">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 BUSINESS BY TRADE
               </a>
             </div>
             <div className="col-xl-3 col-md-6">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 BUSINESS BY TRADE
               </a>
             </div>
             <div className="col-xl-3 col-md-6">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 BUSINESS BY TRADE
               </a>
             </div>
             <div className="col-xl-3 col-md-6">
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 BUSINESS BY TRADE
               </a>
             </div>

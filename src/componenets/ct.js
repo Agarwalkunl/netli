@@ -13,7 +13,7 @@ function ct() {
             <div className="col-12">
               <h4>Client Testimonials</h4>
               <p>See what people are saying about us.</p>
-              <a href="#" className="btn btn-outline-primary">
+              <a href="/#" className="btn btn-outline-primary">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>

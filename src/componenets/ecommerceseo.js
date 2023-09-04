@@ -15,7 +15,7 @@ function ecommerceseo() {
               <p>
                 We Ensure Your Customers Always Find Your Products or Services
               </p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
