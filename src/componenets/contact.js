@@ -245,13 +245,15 @@ function contact() {
             </div>
             <div className="col-md-4">
               <p>
-                Main Phone:b <b> (866) 908-4748</b>
+                email:Pankajgoyal.promotion-360.com    <br /><br/>
+                Main Phone: <b> (830) 604-2779</b>
                 <br />
                 Headquarters: <br />
-                4604 Park Springs Blvd <br />
-                Suite 140 <br />
-                Arlington, TX 76017 <br />
-                <b>(866) 434-4748</b> <br />
+                C-303 , siddarth nagar<br />  
+302017
+near airport terminal 2 <br />
+ jaipur  <br />
+                <b>(830) 604-2779</b> <br />
                 Office Hours: <br />
                 Mon-Fri, 8:30am - 5:30pm CT
               </p>
