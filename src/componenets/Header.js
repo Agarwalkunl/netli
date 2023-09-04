@@ -5,7 +5,7 @@ import { useEffect } from "react";
 import { useNavigate, Link } from "react-router-dom";
 
 function Home() {
-  const un = useNavigate();
+ 
   useEffect(() => {
     const icons = document.querySelectorAll(".fa-phone");
 

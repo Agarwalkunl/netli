@@ -24,7 +24,7 @@ function wwd() {
             <div className="col-12">
               <h4>WordPress Website Design</h4>
               <p>Boost Sales With Website Solutions Tailored to Your Needs</p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL{" "}
               </a>
             </div>
@@ -417,7 +417,7 @@ function wwd() {
                 />
                 <div className="co">
                   <h6>
-                    <a href="#">CONSTRUCTION COMPANY</a>
+                    <a href="/#">CONSTRUCTION COMPANY</a>
                   </h6>
                 </div>
                 <div className="row">
@@ -451,7 +451,7 @@ function wwd() {
                 />
                 <div className="co">
                   <h6>
-                    <a href="#">CONSTRUCTION COMPANY</a>
+                    <a href="/#">CONSTRUCTION COMPANY</a>
                   </h6>
                 </div>
                 <div className="row">
@@ -485,7 +485,7 @@ function wwd() {
                 />
                 <div className="co">
                   <h6>
-                    <a href="#">CONSTRUCTION COMPANY</a>
+                    <a href="/#">CONSTRUCTION COMPANY</a>
                   </h6>
                 </div>
                 <div className="row">

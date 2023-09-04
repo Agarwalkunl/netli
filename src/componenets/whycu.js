@@ -145,7 +145,7 @@ function whycu() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -156,7 +156,7 @@ function whycu() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -167,7 +167,7 @@ function whycu() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -178,7 +178,7 @@ function whycu() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -189,7 +189,7 @@ function whycu() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -200,7 +200,7 @@ function whycu() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -211,7 +211,7 @@ function whycu() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -222,7 +222,7 @@ function whycu() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -233,7 +233,7 @@ function whycu() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -244,7 +244,7 @@ function whycu() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -255,7 +255,7 @@ function whycu() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -266,7 +266,7 @@ function whycu() {
                   src="https://thriveagency.com/wp-content/themes/thrive-agency/images/we-image1.svg"
                   alt=""
                 />
-                <a href="#">OPTIMIZE</a>
+                <a href="/#">OPTIMIZE</a>
 
                 <p>Marketing Processes</p>
               </div>
@@ -322,7 +322,7 @@ function whycu() {
             <div className="col-12">
               <h1>
                 What Our{" "}
-                <span style={{ color: "#738942" }}> Clients Are Saying</span>
+                <span style={{ color: "/#738942" }}> Clients Are Saying</span>
               </h1>
             </div>
             <div className="col-md-4 col-sm-6 mt-5">
@@ -397,7 +397,7 @@ function whycu() {
                 Achieve Top Search Engine Rankings with Our Robust Technical SEO
                 Strategy
               </p>
-              <a href="#" className="btn btn-outline-success">
+              <a href="/#" className="btn btn-outline-success">
                 GET MY FREE PROPOSAL{" "}
               </a>
               <img
