@@ -2,7 +2,7 @@ import React from "react";
 import "../App.css";
 
 import { useEffect } from "react";
-import { useNavigate, Link } from "react-router-dom";
+import {  Link } from "react-router-dom";
 
 function Home() {
  
