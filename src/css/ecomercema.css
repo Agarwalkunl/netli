@@ -1,0 +1,14 @@
+@media screen and (max-width: 768px) {
+  .maineee h4 {
+    font-size: 1.7rem;
+  }
+  .maineee h1 {
+    font-size: 1.4rem;
+  }
+  .maineee h2 {
+    font-size: 1.4rem;
+  }
+  .jak .col-lg-4 .pp {
+    margin-top: 5.5rem;
+  }
+}

@@ -1,0 +1,97 @@
+.form {
+  margin-top: 0.1rem;
+  margin-bottom: 2rem;
+}
+.form {
+  background-color: #667937;
+  padding: 2rem 0.5rem;
+}
+.form .col-md-6 h1 {
+  font-weight: 700;
+  color: white;
+}
+.form .col-md-6 p {
+  color: white;
+}
+.form .col-md-6 label {
+  color: white;
+  font-weight: 700;
+}
+.form .col-md-6 input {
+  padding: 0.5rem 0;
+  margin-left: 0.2rem;
+}
+.form .col-md-6 a {
+  font-weight: 700;
+  color: white;
+}
+.form .col-md-6 {
+  margin-top: 1.5rem;
+}
+.sel input {
+  width: 70%;
+  padding: 0.6rem 0.4rem;
+  font-weight: 700;
+  color: black;
+}
+.sel i {
+  position: absolute;
+  right: 12rem;
+  bottom: 0.6rem;
+  font-size: 1.5rem;
+}
+.sel .col-6 {
+  position: relative;
+}
+.sel .col-6 select {
+  width: 70%;
+  margin-left: 10rem;
+}
+.boxes .box {
+  border: solid 4px gray;
+  padding: 1rem 0.5rem;
+}
+.boxes a {
+  color: #0f752a;
+  font-weight: 700;
+  text-decoration: none;
+}
+.boxes img {
+  margin-bottom: 1rem;
+}
+.boxes p {
+  margin-top: 1rem;
+}
+.boxes {
+  margin-top: 7rem;
+}
+.boxes .box:hover {
+  border: solid 6px #0f752a;
+  transition: 0.5s;
+  padding: 1rem 0.5rem;
+}
+.boxes .box {
+  margin-top: 3rem;
+}
+@media screen and (max-width: 1200px) {
+  .boxes .col-md-6 img {
+    width: 100%;
+  }
+  .form h1 {
+    font-size: 1.5rem;
+  }
+}
+@media screen and (max-width: 992px) {
+  .sel i {
+    position: absolute;
+    right: 7.6rem;
+    bottom: 0.6rem;
+
+    font-size: 1.5rem;
+  }
+}
+@media screen and (max-width: 768px) {
+  .sel i {
+    display: none;
+  }
+}

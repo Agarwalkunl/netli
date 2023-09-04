@@ -1,0 +1,18 @@
+.mango {
+  background-color: whitesmoke;
+  padding: 2rem 1rem;
+}
+@media screen and (max-width: 768px) {
+  .maineeee h4 {
+    font-size: 1.7rem;
+  }
+  .maineeee h1 {
+    font-size: 1.4rem;
+  }
+  .maineeee h2 {
+    font-size: 1.4rem;
+  }
+  .sectiono55 .col-lg-4 .pp {
+    margin-top: 5.5rem;
+  }
+}

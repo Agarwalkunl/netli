@@ -1,0 +1,111 @@
+.rev {
+  margin-top: 7rem;
+}
+.rev img {
+  width: 100%;
+  height: 80%;
+}
+.rev .jk {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+.rev h1 {
+  font-weight: 700;
+  color: white;
+  margin-top: 4rem;
+}
+.rev .col-7 p {
+  color: white;
+  font-weight: 700;
+}
+.rev .jkk {
+  background-color: #698037;
+  padding: 2rem 1rem;
+  border-radius: 15px;
+  height: 35rem;
+}
+.owa {
+  margin-top: 7rem;
+}
+.owa h2 {
+  text-align: center;
+  font-size: 2.3rem;
+  font-weight: 700;
+}
+.owa .col-4 {
+  text-align: center;
+  margin-top: 7rem;
+}
+.owa img {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.owa h6 {
+  font-weight: 700;
+  font-size: 1.2rem;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+.owa .box {
+  background-color: whitesmoke;
+  box-shadow: 0 0 5px 0 gray;
+  border-radius: 15px;
+  padding: 2rem 1rem;
+}
+.opar {
+  margin-top: 7rem;
+}
+.opar h3 {
+  text-align: center;
+  font-size: 2.3rem;
+  font-weight: 700;
+}
+.opar img {
+  height: 7rem;
+}
+.opar .col-3 {
+  margin-top: 4rem;
+}
+.arti {
+  margin-top: 7rem;
+}
+.arti h3 {
+  text-align: center;
+  font-size: 2.3rem;
+  font-weight: 700;
+}
+.arti .col-12 p {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.arti .col-6 a {
+  color: #698037;
+}
+.arti .col-6 p {
+  margin-top: 1rem;
+}
+.arti .box {
+  background-color: whitesmoke;
+  box-shadow: 0 0 5px 0 gray;
+  border-radius: 15px;
+  padding: 2rem 1rem;
+}
+.arti .col-6 .box {
+  margin-top: 3rem;
+}
+@media screen and (max-width: 576px) {
+  .jkk .col-md-7 {
+    display: none;
+  }
+}
+@media screen and (max-width: 576px) {
+  .hoooo h1 {
+    font-size: 1.5rem;
+  }
+  .hoooo h4 {
+    font-size: 1.5rem;
+  }
+  .hoooo h2 {
+    font-size: 1.5rem;
+  }
+}

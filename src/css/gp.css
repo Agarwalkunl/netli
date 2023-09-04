@@ -1,0 +1,47 @@
+.google .col-md-3 h3 {
+  font-weight: 700;
+  color: #556c26;
+}
+.google .col-md-3 p {
+  font-weight: 700;
+  color: #556c26;
+}
+.google .col-md-3 {
+  position: sticky;
+
+  top: 7rem;
+  margin-top: 3rem;
+  box-shadow: 0 0 5px 0 gray;
+  padding: 1.4rem 0.8rem;
+  margin-left: 0.8rem;
+  height: 40rem;
+}
+.google .col-md-8 img {
+  width: 100%;
+}
+.google .col-md-8 h3 {
+  font-size: 1.5rem;
+  text-align: center;
+  font-weight: 700;
+  margin-top: 8rem;
+  margin-bottom: 3rem;
+}
+.google .col-md-8 {
+  padding-left: 3rem;
+}
+@media screen and (max-width: 992px) {
+  .google .col-md-3 h3 {
+    font-size: 0.9rem;
+  }
+  .google .col-md-3 p {
+    font-size: 0.8rem;
+  }
+}
+@media screen and (max-width: 768px) {
+  .google .col-md-3 {
+    height: 45rem;
+  }
+  .google .col-md-3 {
+    display: none;
+  }
+}

@@ -1,0 +1,258 @@
+.section0 a {
+  background-color: #0f752a;
+  color: white;
+  font-weight: 700;
+  margin-top: 0.9rem;
+  border: none;
+}
+.section0 a:hover {
+  background-color: #0f752a;
+}
+.section0 .col-12 {
+  text-align: center;
+}
+.section0 h4 {
+  font-weight: 700;
+  font-size: 2.3rem;
+  margin-top: 3rem;
+  color: white;
+}
+.section0 p {
+  margin-top: 1.4rem;
+  color: white;
+}
+.section0 {
+  background: url("https://i.pinimg.com/564x/16/68/e3/1668e32f64dca494ac2858080820c3c4.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 4rem 0;
+}
+
+.section1 {
+  margin-top: 7rem;
+}
+.section1 img {
+  width: 85%;
+  margin-left: 7rem;
+}
+.section1 p {
+  text-align: justify;
+}
+.section2 {
+  margin-top: 7rem;
+}
+.section2 img {
+  height: 90%;
+}
+.section3 h4 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 2rem;
+}
+.section3 .col-12 p {
+  text-align: center;
+  color: #1b1464;
+}
+.section3 {
+  margin-top: 7rem;
+}
+.section3 img {
+  height: 75%;
+  margin-top: 1rem;
+}
+.section3 .col-6 p {
+  margin-top: 4rem;
+}
+.navbar {
+  height: 6rem;
+}
+.section4 {
+  margin-top: 7rem;
+  text-align: center;
+}
+.section4 img {
+  width: 100%;
+}
+.section4 h6 {
+  font-weight: 700;
+  padding-top: 0.3rem;
+
+  color: white;
+}
+.section4 .col-12 a {
+  background-color: #0f752a;
+}
+.section4 .co {
+  background-color: #0f752a;
+  color: white;
+}
+.section4 span {
+  font-weight: 700;
+  color: #0f752a;
+}
+.section4 .box {
+  box-shadow: 0 0 2px 0 gray;
+  padding: 1rem 0.5rem;
+}
+.section4 .box:hover {
+  box-shadow: 0 0 6px 0 gray;
+}
+.section4 .col-12 {
+  margin-top: 3rem;
+}
+.section5 h4 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 2.3rem;
+}
+.section5 {
+  margin-top: 7rem;
+}
+.section5 .col-4 p {
+  margin-top: 2rem;
+}
+.section5 a {
+  color: #0f752a;
+
+  font-weight: 700;
+  margin-top: 0.4rem;
+}
+.section5 i {
+  font-size: 3rem;
+}
+
+.section5 .col-4 {
+  margin-top: 7rem;
+}
+.section5 .p {
+  text-align: center;
+  color: #1b1464;
+}
+.section5 {
+  background-color: whitesmoke;
+  padding: 3rem 0;
+}
+.section5 .col-12 {
+  text-align: center;
+}
+.section5 .col-12 a {
+  margin-top: 2rem;
+}
+.section6 .six {
+  margin-top: 6rem;
+}
+.section6 img {
+  height: 20rem;
+  margin-left: 6rem;
+}
+.section6 .six p {
+  margin-top: 3rem;
+}
+.comman img {
+  width: 100%;
+}
+.comman .col-12 {
+  text-align: center;
+}
+.comman {
+  margin-top: 7rem;
+}
+.comman .col-12 a {
+  margin-top: 2rem;
+}
+.accordion {
+  margin-top: 6rem;
+}
+.animation {
+  margin-top: 7rem;
+}
+.animation img {
+  height: 4rem;
+}
+.animation h1 {
+  font-weight: 700;
+  font-size: 2rem;
+}
+.animation h1 span {
+  color: #0f752a;
+}
+.links a {
+  text-decoration: none;
+  display: block;
+  color: white;
+  position: relative;
+
+  margin-top: 0.6rem;
+
+  width: fit-content;
+}
+.links {
+  margin-top: 7rem;
+}
+.links {
+  background-color: #443f35;
+  padding: 4rem 2rem;
+}
+.links a::after {
+  content: "";
+  width: 0;
+  transition: 0.5s;
+  background-color: gray;
+  height: 3px;
+  position: absolute;
+  left: 0;
+
+  bottom: -0.3rem;
+}
+.links a:hover::after {
+  width: 100%;
+}
+.footer {
+  margin-top: 5rem;
+}
+.footer .col-6 i {
+  font-size: 1.5rem;
+  margin-left: 1.5rem;
+}
+.footer .icon {
+  text-align: right;
+}
+.footer .col-6 i:hover {
+  transition: 0.5s;
+  transform: rotate(360deg);
+  cursor: pointer;
+}
+nav.sticky {
+  position: fixed;
+  background-color: white;
+  box-shadow: 0 0 5px 0 gray;
+  width: 100%;
+
+  z-index: 99;
+}
+
+@media screen and (max-width: 1200px) {
+  .section2 .col-6 img {
+    width: 100%;
+  }
+  .section3 .col-6 img {
+    width: 100%;
+  }
+  .section6 .six img {
+    width: 100%;
+    margin-left: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .section3 .col-md-6 img {
+    width: 100%;
+  }
+  .section1 img {
+    margin-left: 0;
+    margin-top: 1rem;
+  }
+  .section2 img {
+    width: 100%;
+  }
+}

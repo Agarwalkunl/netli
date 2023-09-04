@@ -1,0 +1,120 @@
+.section0oo img {
+  height: 15rem;
+}
+.section0oo h1 {
+  font-size: 1.8rem;
+}
+.section1oo {
+  margin-top: 7rem;
+}
+.section1oo h1 {
+  font-weight: 700;
+  text-align: center;
+}
+.section1oo .pp {
+  text-align: center;
+  color: #1b1464;
+}
+.section1oo .col-6 .ppp {
+  background-color: #0f752a;
+  color: white;
+  text-align: center;
+}
+.section1oo i {
+  color: #0f752a;
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+.section1oo .bo {
+  border-radius: 10px;
+}
+.section1oo .ppp {
+  border-radius: 10px;
+  padding: 1rem 0.3rem;
+}
+.section1oo .boo {
+  box-shadow: 0 0 2px 0 gray;
+  border-radius: 10px;
+  padding: 1rem 1rem;
+}
+
+.section1oo .maincheck {
+  font-size: 4rem;
+  font-weight: 700;
+  color: #0f752a;
+  box-shadow: 0 0 2px 0 gray;
+  border-radius: 10rem;
+  padding: 1rem 1.3rem;
+}
+.section1oo .ch i {
+  color: red;
+}
+
+.section1oo .par {
+  margin-top: 3rem;
+}
+.section1oo .bt {
+  margin-top: 3rem;
+  text-align: center;
+}
+.section3oo .col-12 p {
+  margin-top: 1rem;
+}
+.section3oo .col-6 .img {
+  margin-left: 7rem;
+}
+.section4oo {
+  margin-top: 7rem;
+}
+.section4oo h1 {
+  font-weight: 700;
+  text-align: center;
+}
+.section4oo .pp {
+  text-align: center;
+  color: #1b1464;
+}
+.section5oo {
+  margin-top: 7rem;
+}
+.section5oo h1 {
+  text-align: center;
+  font-weight: 700;
+}
+.section5oo .li {
+  text-align: center;
+}
+.section5oo .line {
+  width: 17rem;
+  height: 5px;
+  background-color: #0f752a;
+  margin: 0 auto;
+  margin-bottom: 4rem;
+}
+.tree {
+  margin-top: 7rem;
+  background-color: whitesmoke;
+  padding: 3rem 1rem;
+}
+.tree h1 {
+  text-align: center;
+  font-weight: 700;
+}
+.tree .pp {
+  text-align: center;
+  color: #1b1464;
+}
+.tree .col-6 img {
+  height: 25rem;
+}
+.tree .col-6 {
+  margin-top: 3rem;
+}
+@media screen and (max-width: 768px) {
+  .mainbb h1 {
+    font-size: 1.5rem;
+  }
+  .mainbb h4 {
+    font-size: 1.4rem;
+  }
+}

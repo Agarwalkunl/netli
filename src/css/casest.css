@@ -1,0 +1,110 @@
+.sel select {
+  width: 100%;
+  box-shadow: 0 0 4px 0 gray;
+  padding: 0.6rem 0.7rem;
+}
+.sel {
+  margin-top: 7rem;
+}
+.lds-ripple {
+  display: inline-block;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.lds-ripple div {
+  position: absolute;
+  border: 4px solid red;
+  opacity: 1;
+  border-radius: 50%;
+  animation: lds-ripple 1s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+}
+.lds-ripple div:nth-child(2) {
+  animation-delay: -0.5s;
+}
+@keyframes lds-ripple {
+  0% {
+    top: 36px;
+    left: 36px;
+    width: 0;
+    height: 0;
+    opacity: 0;
+  }
+  4.9% {
+    top: 36px;
+    left: 36px;
+    width: 0;
+    height: 0;
+    opacity: 0;
+  }
+  5% {
+    top: 36px;
+    left: 36px;
+    width: 0;
+    height: 0;
+    opacity: 1;
+  }
+  100% {
+    top: 0px;
+    left: 0px;
+    width: 72px;
+    height: 72px;
+    opacity: 0;
+  }
+}
+
+.loa .col-12 {
+  text-align: center;
+  margin-top: 4rem;
+}
+.loa h1 {
+  font-weight: 700;
+  color: white;
+}
+.loa .col-lg-4 {
+  position: relative;
+}
+.loa .col-lg-4 img {
+  width: 100%;
+}
+.loa .box {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 1rem;
+
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 93%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  transition: 0.7s;
+}
+.loa p {
+  color: white;
+}
+.loa .box:hover .h1 {
+  font-size: 1.4rem;
+  transition: 0.7s;
+}
+.loa .box:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+.loa .col-lg-4 {
+  margin-top: 2rem;
+}
+.loa .row {
+  margin-top: 3rem;
+}
+.ii .col-12 {
+  text-align: center;
+}
+.ii img {
+  width: 100%;
+}
+.ii {
+  margin-top: 7rem;
+}

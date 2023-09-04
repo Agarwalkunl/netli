@@ -1,0 +1,104 @@
+.formula .col-12 {
+  text-align: center;
+}
+.formula h1 {
+  font-weight: 700;
+  font-size: 2.3rem;
+  margin-top: 7rem;
+}
+
+.formula .col-md-6 {
+  background-color: #5e6f27;
+  border-radius: 50%;
+  padding: 5rem 0;
+  margin: 3rem auto;
+}
+.formula .col-md-6 a {
+  color: white;
+}
+.formula .col-md-6 :hover {
+  transform: scale(1.2);
+  transition: 0.5s;
+}
+.formula .btn {
+  margin-top: 4rem;
+}
+.formulaa img {
+  height: 20rem;
+}
+.cli img {
+  width: 100%;
+}
+
+.cli .col-12 {
+  box-shadow: 0 0 4px 0 gray;
+  border-radius: 10px;
+  padding: 1.4rem 1rem;
+  margin-top: 3rem;
+}
+.cli p {
+  margin-top: 4rem;
+}
+
+.build {
+  margin-top: 7rem;
+}
+.build h1 {
+  font-size: 2.3rem;
+  font-weight: 700;
+  text-align: center;
+}
+.build h6 {
+  text-align: center;
+  font-weight: 700;
+}
+.build img {
+  background-color: #5e6f27;
+  padding: 2rem 2rem;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+.build .col-md-4 {
+  text-align: center;
+  margin-top: 4rem;
+}
+.build .col-md-4 .b {
+  box-shadow: 0 0 4px 0 gray;
+  padding: 2rem 1rem;
+}
+.formmm .row .col-8 {
+  margin: 0 auto;
+}
+.par .im img {
+  width: 60% !important;
+}
+
+@media screen and (max-width: 992px) {
+  .formull h1 {
+    font-size: 1.5rem;
+  }
+  .formula .col-md-6 {
+    background-color: #5e6f27;
+    border-radius: 50%;
+    padding: 9rem 0;
+    width: 55%;
+    margin: 3rem auto;
+  }
+}
+@media screen and (max-width: 768px) {
+  .formulaa img {
+    width: 100%;
+  }
+  .parr .im img {
+    width: 90% !important;
+  }
+}
+@media screen and (max-width: 500px) {
+  .formula .col-md-6 {
+    background-color: #5e6f27;
+    border-radius: 50%;
+    padding: 6rem 0;
+    width: 55%;
+    margin: 3rem auto;
+  }
+}

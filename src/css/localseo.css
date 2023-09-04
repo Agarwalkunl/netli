@@ -1,0 +1,64 @@
+.section0000 h1 {
+  text-align: center;
+  font-weight: 700;
+}
+.section0000 .pp {
+  text-align: center;
+  color: #1b1464;
+}
+.section0000 {
+  margin-top: 7rem;
+}
+.section0000 .col-6 {
+  margin-top: 3rem;
+}
+.section00000 img {
+  margin-top: -2rem;
+  margin-left: 7rem;
+}
+.section00000 .col-9 {
+  margin: 0 auto;
+  background-color: white;
+  padding: 2rem 1rem;
+  margin-top: 4rem;
+  box-shadow: 0 0 4px 0 gray;
+}
+.section00000 {
+  background-color: whitesmoke;
+  padding: 3rem 2rem;
+}
+.section0m img {
+  margin: 0;
+}
+.section5555 .col-12 img {
+  width: 100%;
+  margin-bottom: 3rem;
+}
+
+@media screen and (max-width: 1200px) {
+  .section00000 img {
+    margin-left: 0;
+  }
+  .section5555 .col-lg-4 {
+    margin-top: 3rem;
+  }
+  .section5555 .col-lg-4 .pp {
+    margin-top: 2rem;
+  }
+}
+@media screen and (max-width: 768px) {
+  .section00000 img {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+  }
+  .col-md-9 {
+    background-color: white;
+    border-radius: 10px;
+    padding: 1rem 0.5rem;
+    margin-top: 2rem;
+    box-shadow: 0 0 4px 0 gray;
+  }
+  .mainddd h4 {
+    font-size: 1.4rem;
+  }
+}

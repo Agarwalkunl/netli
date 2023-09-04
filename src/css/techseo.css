@@ -1,0 +1,67 @@
+.sectionoo {
+  margin-top: 7rem;
+}
+.sectionoo img {
+  width: 100%;
+}
+.sectionoo p b {
+  font-size: 1.3rem;
+}
+.sectiono3 h6 {
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+.sectiono6 p {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.sectiono6 .btnn {
+  text-align: center;
+}
+.sectiono5 .col-6 {
+  margin-top: 4rem;
+}
+.sectiono5 .col-6 p {
+  margin-top: 3rem;
+}
+.sectiono55 {
+  background-color: whitesmoke;
+  padding: 4rem 1rem;
+}
+.sectiono9 {
+  margin-top: 7rem;
+}
+.sectiono9 .col-12 {
+  text-align: center;
+}
+.sectiono9 img {
+  width: 90%;
+  margin-top: 1rem;
+}
+.sectiono9 h1 {
+  font-weight: 700;
+  margin-top: 1rem;
+}
+.sectiono9 p {
+  color: #1b1464;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+@media screen and (max-width: 992px) {
+  .sectiono55 .col-lg-4 .pp {
+    margin-top: 2rem;
+  }
+  .sectionoo img {
+    height: 20rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+}
+@media screen and (max-width: 768px) {
+  .mainb h4 {
+    font-size: 1.5rem;
+  }
+  .sectiono5 .pp {
+    margin-top: 2rem;
+  }
+}

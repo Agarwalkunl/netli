@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toggle Search Box</title>
+    <style>
+        /* Basic CSS for the search icon and search box */
+        .search-container {
+            display: flex;
+            align-items: center;
+        }
+
+        .search-icon {
+            cursor: pointer;
+        }
+
+        .search-box {
+            display: none;
+            margin-left: 10px;
+            transition: all 0.3s ease;
+        }
+
+        .search-box.show {
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <div class="search-container">
+        <span class="search-icon" id="searchIcon">&#128269;</span>
+        <input type="text" class="search-box" id="searchBox" placeholder="Search...">
+    </div>
+
+    <script>
+        // JavaScript to toggle the search box visibility
+        const searchIcon = document.getElementById('searchIcon');
+        const searchBox = document.getElementById('searchBox');
+
+        searchIcon.addEventListener('click', function () {
+            searchBox.classList.toggle('show');
+            if (searchBox.classList.contains('show')) {
+                searchBox.focus(); // Focus on the input when it's visible
+            }
+        });
+    </script>
+</body>
+</html>

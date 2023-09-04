@@ -1,0 +1,22 @@
+.section55l {
+  background-color: white;
+}
+@media screen and (max-width: 768px) {
+  .mained h4 {
+    font-size: 1.3rem;
+  }
+  .mained h1 {
+    font-size: 1.4rem;
+  }
+  .mained h2 {
+    font-size: 1.4rem;
+  }
+  .section55l .col-lg-4 .pp {
+    margin-top: 5.5rem !important;
+  }
+}
+@media screen and (max-width: 992px) {
+  .section55l .col-lg-4 .pp {
+    margin-top: 5.5rem !important;
+  }
+}

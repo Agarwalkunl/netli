@@ -1,0 +1,78 @@
+.parr .im {
+  text-align: center;
+  margin-top: 7rem;
+}
+.parr .im img {
+  height: 30rem;
+}
+.flag {
+  margin-top: 7rem;
+}
+.flag h3 {
+  font-weight: 700;
+  margin-top: 15rem;
+}
+.flag img {
+  height: 45rem;
+  margin-bottom: 3rem;
+}
+.flag .col-10 {
+  background-color: #738942;
+  padding: 2rem 1rem;
+  color: white;
+  box-shadow: 0 0 5px 0 #738942;
+  border-radius: 10px;
+}
+.cli {
+  margin-top: 7rem;
+}
+.cli h1 {
+  font-size: 2.3rem;
+  font-weight: 700;
+  text-align: center;
+}
+.cli .box {
+  text-align: center;
+  margin-top: 3rem;
+}
+.cli h6 {
+  background-color: #738942;
+  color: white;
+  font-weight: 700;
+}
+.clii .box img {
+  height: 7rem;
+  width: 7rem;
+  margin-top: 2rem;
+  margin-left: 1rem;
+}
+
+@media screen and (max-width: 1140px) {
+  .flag img {
+    height: 40rem;
+    margin-bottom: 3rem;
+  }
+}
+@media screen and (max-width: 1140px) {
+  .flag img {
+    height: 30rem;
+    margin-bottom: 3rem;
+  }
+}
+@media screen and (max-width: 576px) {
+  .flag img {
+    height: 10rem;
+    margin-bottom: 3rem;
+  }
+}
+@media screen and (max-width: 576px) {
+  .hoo h1 {
+    font-size: 1.5rem;
+  }
+  .hoo h4 {
+    font-size: 1.5rem;
+  }
+  .hoo h2 {
+    font-size: 1.5rem;
+  }
+}

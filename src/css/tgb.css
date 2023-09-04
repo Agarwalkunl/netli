@@ -1,0 +1,59 @@
+.fro {
+  margin-top: 7rem;
+}
+.fro .fro1 {
+  text-align: center;
+}
+.fro .fro1 img {
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+.fro .fro2 {
+  background-color: #7e953e;
+  padding: 2rem 1rem;
+  margin-top: 7rem;
+  color: white;
+}
+.fro .fro2 h2 {
+  font-weight: 700;
+  margin-top: 4rem;
+}
+.serv {
+  margin-top: 7rem;
+}
+.serv .col-12 p {
+  text-align: center;
+}
+.serv .col-12 h2 {
+  font-weight: 700;
+  font-size: 2.3rem;
+  text-align: center;
+}
+.serv img {
+  width: 100%;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.serv h3 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+@media screen and (max-width: 1150px) {
+  .fro2 img {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 576px) {
+  .hooo h1 {
+    font-size: 1.5rem;
+  }
+  .hooo h4 {
+    font-size: 1.5rem;
+  }
+  .hooo h2 {
+    font-size: 1.5rem;
+  }
+}

@@ -1,0 +1,128 @@
+.who .col-sm-5 {
+  background-color: #738942;
+  height: 17rem;
+  margin-top: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 0 4px 0 #738942;
+  text-align: center;
+}
+.who .col-sm-5 h1 {
+  font-weight: 700;
+  color: white;
+  margin-top: 4rem;
+}
+.who .col-sm-5 p {
+  color: white;
+}
+.who .col-sm-7 img {
+  width: 100%;
+  margin-top: 1rem;
+  height: 27rem;
+}
+.who .col-12 img {
+  width: 100%;
+  margin-top: 3rem;
+}
+.par {
+  margin-top: 7rem;
+}
+.par p {
+  text-align: center;
+}
+.par .col-4 {
+  text-align: center;
+  margin-top: 2rem;
+}
+.par .col-6 {
+  text-align: center;
+  margin-top: 4rem;
+}
+.aw img {
+  width: 100%;
+}
+.met img {
+  width: 100%;
+}
+.met .col-6 {
+  text-align: center;
+  margin-top: 3rem;
+}
+.met {
+  margin-top: 7rem;
+}
+.met h3 {
+  font-weight: 700;
+}
+.mett {
+  margin-top: 7rem;
+}
+.mett img {
+  width: 100%;
+}
+.mett .col-sm-7 {
+  background-color: #738942;
+  border-radius: 10px;
+  padding: 1rem 0.5rem 1rem 4rem;
+  color: white;
+  position: relative;
+  left: 35rem;
+}
+.mett .col-sm-5 {
+  position: absolute;
+  left: 10rem;
+  margin-top: 3rem;
+  z-index: 1;
+}
+.par h2 {
+  text-align: center;
+  font-weight: 700;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+.par a {
+  text-decoration: none;
+  color: #738942;
+  text-align: center;
+  display: block;
+}
+.par .col-3 {
+  text-align: center;
+}
+.par .col-3 {
+  margin-top: 3rem;
+}
+.aw .im img {
+  height: 30rem;
+}
+.aw .im {
+  text-align: center;
+}
+.aw .col-12 h1 {
+  font-weight: 700;
+  text-align: center;
+  font-size: 2.3rem;
+  margin-top: 3rem;
+}
+.aw {
+  margin-top: 7rem;
+}
+
+.aw .imm img {
+  width: 70%;
+}
+.aw .imm {
+  text-align: center;
+}
+@media screen and (max-width: 768px) {
+  .met .btn-outline-success {
+    font-size: 0.8rem;
+  }
+  .aw .imm h1 {
+    font-size: 1.3rem;
+  }
+}
+@media screen and (max-width: 576px) {
+  .met .btn-outline-success {
+    font-size: 0.4rem;
+  }
+}

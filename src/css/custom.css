@@ -1,0 +1,12 @@
+.sec h1 {
+  margin-top: 4rem;
+  font-size: 2rem;
+}
+@media screen and (max-width: 768px) {
+  .mainccc h4 {
+    font-size: 1.4rem;
+  }
+  .mainccc h1 {
+    font-size: 1.4rem;
+  }
+}

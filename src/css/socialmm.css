@@ -1,0 +1,38 @@
+.wwordp img {
+  height: 24rem;
+}
+.wwordp p {
+  margin-top: 2rem;
+}
+.wwordp h2 {
+  margin-top: 2rem;
+}
+.wwwordp {
+  background-color: whitesmoke;
+  padding: 2rem 1rem;
+}
+.jak {
+  background-color: white;
+}
+.wod img {
+  height: 70%;
+}
+@media screen and (max-width: 992px) {
+  .mainee h4 {
+    font-size: 1.7rem;
+  }
+  .mainee h1 {
+    font-size: 1.4rem;
+  }
+  .mainee h2 {
+    font-size: 1.4rem;
+  }
+  .commann .pp {
+    font-size: 1.4rem;
+  }
+}
+@media screen and (max-width: 992px) {
+  .sectiono55 .col-lg-4 i {
+    margin-top: 4.5rem;
+  }
+}

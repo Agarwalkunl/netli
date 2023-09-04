@@ -1,0 +1,111 @@
+.caro img {
+  height: 100%;
+  width: 100%;
+}
+.caro {
+  margin-top: 7rem;
+}
+.caro .slide {
+  margin-top: 5rem;
+  margin-bottom: 4rem;
+}
+.caro .col-4 {
+  text-align: center;
+}
+.caro h3 {
+  margin-top: 2rem;
+  font-weight: 700;
+  font-size: 1.4rem;
+}
+.caro h2 {
+  text-align: center;
+  font-weight: 700;
+  color: #0f752a;
+}
+.caro h3 {
+  text-align: center;
+  font-weight: 700;
+}
+.caro .btnn {
+  text-align: center;
+}
+.caro .btnn a {
+  margin-top: 2rem;
+}
+
+.section0l {
+  background-color: whitesmoke;
+  padding: 4rem 1rem;
+}
+.award h1 {
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+.award .col-12 {
+  text-align: center;
+}
+.award img {
+  width: 100%;
+}
+.award {
+  border-top: solid black 0.5px;
+  border-bottom: solid black 0.5px;
+  padding: 3rem 0;
+}
+
+.fraa h1 {
+  font-size: 1.5rem;
+}
+.fraa a {
+  margin-top: 2rem;
+}
+.key h1 {
+  text-align: center;
+  font-weight: 700;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+.key img {
+  width: 100%;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+.key {
+  margin-top: 7rem;
+}
+.kl h2 {
+  text-align: center;
+  font-weight: 700;
+}
+@media screen and (max-width: 1200px) {
+  .section0l .col-6 img {
+    margin-left: 0 !important;
+  }
+}
+@media screen and (max-width: 992px) {
+  .mainc .col-lg-6 img {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
+  .sectiono5 .pp {
+    margin-top: 2rem;
+  }
+}
+@media screen and (max-width: 768px) {
+  .section0l .col-lg-6 img {
+    width: 90% !important;
+  }
+  .mainc h4 {
+    font-size: 1.3rem;
+  }
+  .mainc h1 {
+    font-size: 1.3rem;
+  }
+
+  .slide img {
+    width: 100%;
+  }
+  .slide {
+    width: 90%;
+  }
+}
